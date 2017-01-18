@@ -1,6 +1,7 @@
 # Учебный проект «Барбершоп»
 
 * Студент: [Андрей Курмаев](https://up.htmlacademy.ru/htmlcss/16/user/232797).
+* Наставник: [Олег Зубов] (https://up.htmlacademy.ru/htmlcss/16/user/42701).
 
 ---
 
